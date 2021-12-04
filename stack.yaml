@@ -1,0 +1,4 @@
+packages:
+  - .
+
+resolver: lts-18.10
